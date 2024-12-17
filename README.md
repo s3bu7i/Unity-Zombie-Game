@@ -171,6 +171,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Images
 
 Here are some screenshots of the game in action:
-![Gameplay](https://example.com/images/gameplay.png)
-![Main Menu](https://example.com/images/main-menu.png)
-![Zombie Horde](https://example.com/images/zombie-horde.png)
+![Gameplay](img/1.png)
+![Main Menu](img/2.png)
+![Zombie Horde](img/3.png)
+![Zombie Horde](img/4.png)
